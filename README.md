@@ -2,11 +2,11 @@
 
 ## Figma UI Design
 
-  <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Home.png" alt="Home Page" width="45%">
+  <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Home.png" alt="Home Page" width="100%">
   
 <p align="center">
-  <img src="https://github.com/yashindibhagya/doctor_UI/blob/main/Doctor%20Website/Subscribing.png" alt="Subscribe" width="45%">
-  <img src="https://github.com/yashindibhagya/doctor_UI/blob/main/Doctor%20Website/Contact%20Us.png" alt="Contact Us" width="45%">
+  <img src="" alt="Subscribe" width="45%">
+  <img src="" alt="Contact Us" width="45%">
 </p>
 
 
