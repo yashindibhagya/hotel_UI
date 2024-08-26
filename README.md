@@ -3,7 +3,7 @@
 ## Figma UI Design
 
   <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Home.png" alt="Home Page" width="100%">
-   <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Untitled%201.jpg" alt="Home Page" width="100%">
+  <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Untitled%201.jpg" alt="Home Page" width="100%">
   
 <p align="center">
   <img src="" alt="Subscribe" width="45%">
