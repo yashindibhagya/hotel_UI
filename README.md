@@ -2,8 +2,10 @@
 
 ## Figma UI Design
 
-  <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Untitled.jpg" alt="Home Page" width="45%">
-  <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Untitled%201.jpg" alt="Home Page" width="45%">
+  <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Website%201.jpg" alt="Home Page" width="45%">
+  <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Website%202.jpg" alt="Home Page" width="45%">
+   <img src="https://github.com/yashindibhagya/hotel_UI/blob/main/Website/Website%203.jpg" alt="Home Page" width="45%">
+  
   
   
 
